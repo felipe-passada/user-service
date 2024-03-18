@@ -1,10 +1,12 @@
 package com.felipe.passada.domain.entities;
 
-import lombok.AllArgsConstructor;
+import lombok.Getter;
 import lombok.Value;
 
 @Value
-@AllArgsConstructor
 public class Email {
-    private String address;
+
+    @Getter
+    String address;
+
 }
