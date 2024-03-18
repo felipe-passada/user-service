@@ -1,4 +1,4 @@
-package com.felipe.passada.entities;
+package com.felipe.passada.domain.entities;
 
 
 import com.felipe.passada.domain.entities.Email;
