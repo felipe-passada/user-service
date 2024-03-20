@@ -1,7 +1,7 @@
-package com.felipe.passada.domain.entities;
+package com.felipe.passada.domain.entities.values;
 
 
-import com.felipe.passada.domain.entities.Email;
+import com.felipe.passada.domain.entities.values.Email;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,5 +1,7 @@
 package com.felipe.passada.domain.entities;
 
+import com.felipe.passada.domain.entities.values.Cellphone;
+import com.felipe.passada.domain.entities.values.Email;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

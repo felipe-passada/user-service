@@ -1,4 +1,4 @@
-package com.felipe.passada.domain.entities;
+package com.felipe.passada.domain.entities.values;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
